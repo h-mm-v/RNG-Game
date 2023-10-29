@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNGGame_2", "RNGGame_2\RNGGame_2.csproj", "{0F2829FC-FAC0-4F7F-94DA-99F0CD8ADE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2829FC-FAC0-4F7F-94DA-99F0CD8ADE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2829FC-FAC0-4F7F-94DA-99F0CD8ADE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2829FC-FAC0-4F7F-94DA-99F0CD8ADE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2829FC-FAC0-4F7F-94DA-99F0CD8ADE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A60AF3-C83F-434D-A5B8-A735AABBA523}
+	EndGlobalSection
+EndGlobal
